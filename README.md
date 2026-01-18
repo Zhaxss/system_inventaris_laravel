@@ -19,8 +19,8 @@ Aplikasi berbasis web untuk manajemen inventaris, pelacakan aset, dan dokumentas
 
 ## Spesifikasi Teknis
 
-* **Framework:** Laravel 10
-* **Language:** PHP 8.1+
+* **Framework:** Laravel 12
+* **Language:** PHP 8.3+
 * **Database:** MySQL / MariaDB
 * **Frontend:** Blade Templating, CSS Framework (Tailwind/Bootstrap)
 
